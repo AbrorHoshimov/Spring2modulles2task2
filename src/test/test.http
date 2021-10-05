@@ -1,0 +1,11 @@
+GET http://localhost:80/api/input
+Accept: application/json
+
+###
+POST http://localhost:80/api/supplier/2
+Content-Type: application/json
+
+{
+}
+
+###
